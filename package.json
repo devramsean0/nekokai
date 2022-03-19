@@ -30,8 +30,5 @@
     "@skyra/http-framework": "^0.0.1",
     "dotenv": "^16.0.0"
   },
-  "packageManager": "yarn@3.2.0",
-  "resolutions": {
-    "@skyra/http-framework": "portal:/C:/Users/outra/Documents/GitHub/archid-components/packages/http-framework"
-  }
+  "packageManager": "yarn@3.2.0"
 }

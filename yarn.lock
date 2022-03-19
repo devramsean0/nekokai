@@ -75,9 +75,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@skyra/http-framework@portal:/C:/Users/outra/Documents/GitHub/archid-components/packages/http-framework::locator=nekokai%40workspace%3A.":
-  version: 0.0.0-use.local
-  resolution: "@skyra/http-framework@portal:/C:/Users/outra/Documents/GitHub/archid-components/packages/http-framework::locator=nekokai%40workspace%3A."
+"@skyra/http-framework@npm:^0.0.1":
+  version: 0.0.1
+  resolution: "@skyra/http-framework@npm:0.0.1"
   dependencies:
     "@discordjs/collection": ^0.5.0
     "@discordjs/rest": ^0.3.0
@@ -85,8 +85,9 @@ __metadata:
     discord-api-types: "*"
     fastify: ^3.27.4
     tweetnacl: ^1.0.3
+  checksum: 1c2dddc74a701d5de70df9059039da4fa6ecd64662f3622dc75b5c1ceb8ef5ef5741c50cdc33e7cf651a73209bcba0e9a16edb811fa32589c45d8fc62fa67d22
   languageName: node
-  linkType: soft
+  linkType: hard
 
 "abstract-logging@npm:^2.0.0":
   version: 2.0.1
@@ -169,14 +170,14 @@ __metadata:
   linkType: hard
 
 "debug@npm:^4.0.0":
-  version: 4.3.3
-  resolution: "debug@npm:4.3.3"
+  version: 4.3.4
+  resolution: "debug@npm:4.3.4"
   dependencies:
     ms: 2.1.2
   peerDependenciesMeta:
     supports-color:
       optional: true
-  checksum: 14472d56fe4a94dbcfaa6dbed2dd3849f1d72ba78104a1a328047bb564643ca49df0224c3a17fa63533fd11dd3d4c8636cd861191232a2c6735af00cc2d4de16
+  checksum: 3dbad3f94ea64f34431a9cbf0bafb61853eda57bff2880036153438f50fb5a84f27683ba0d8e5426bf41a8c6ff03879488120cf5b3a761e77953169c0600a708
   languageName: node
   linkType: hard
 
