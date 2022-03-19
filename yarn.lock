@@ -75,9 +75,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@skyra/http-framework@npm:^0.0.1":
-  version: 0.0.1
-  resolution: "@skyra/http-framework@npm:0.0.1"
+"@skyra/http-framework@npm:^0.0.3":
+  version: 0.0.3
+  resolution: "@skyra/http-framework@npm:0.0.3"
   dependencies:
     "@discordjs/collection": ^0.5.0
     "@discordjs/rest": ^0.3.0
@@ -85,7 +85,7 @@ __metadata:
     discord-api-types: "*"
     fastify: ^3.27.4
     tweetnacl: ^1.0.3
-  checksum: 1c2dddc74a701d5de70df9059039da4fa6ecd64662f3622dc75b5c1ceb8ef5ef5741c50cdc33e7cf651a73209bcba0e9a16edb811fa32589c45d8fc62fa67d22
+  checksum: 65915a0ad5ac0089e73ec507eba468faf910364b779d9baac737cfa5531db0d94a25403c730eca9b200ad0b145bd3be268e5d74f753388e962f056c46e76aef9
   languageName: node
   linkType: hard
 
@@ -408,7 +408,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nekokai@workspace:."
   dependencies:
-    "@skyra/http-framework": ^0.0.1
+    "@skyra/http-framework": ^0.0.3
     dotenv: ^16.0.0
   languageName: unknown
   linkType: soft

@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/devramsean0/nekokai#readme",
   "dependencies": {
-    "@skyra/http-framework": "^0.0.1",
+    "@skyra/http-framework": "^0.0.3",
     "dotenv": "^16.0.0"
   },
   "packageManager": "yarn@3.2.0"
